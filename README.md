@@ -11,4 +11,3 @@
 # NFT Mint Script for XRPL
 
 The process of minting NFTs on the XRPL (XRP Ledger) involves creating a unique digital asset and recording it on the XRP Ledger.
-
